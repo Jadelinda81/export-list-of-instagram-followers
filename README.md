@@ -28,7 +28,7 @@ Automate the process of exporting your full Instagram followers list — includi
 > This project helps you **export your entire Instagram followers list** safely, filter them by different criteria, and store the results in formats like CSV, XLSX, or Google Sheets. It’s perfect for marketers, data analysts, and creators who need structured audience insights.
 
 <p align="center">
-  <img src="export-list-of-instagram-followers.png" alt="export-list-of-instagram-followers.png" width="90%">
+  <img src="export-list-of-instagram-followers.png" alt="export-list-of-instagram-followers.png" width="50%">
 </p>
 
 ###  Key Benefits
